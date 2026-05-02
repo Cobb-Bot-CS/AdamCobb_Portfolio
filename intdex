@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adam Cobb - Portfolio</title>
+</head>
+<body>
+    <h1>Adam Cobb</h1>
+    <p>Computer Science student focused on systems and backend development.</p>
+
+    <h2>Projects</h2>
+
+    <h3>TerraCrate</h3>
+    <p>
+    Portable self-hosted file sharing system using Raspberry Pi, Docker, and networking tools.
+    Includes local discovery (mDNS) and offline access point mode.
+    </p>
+
+    <h3>Chess Web App</h3>
+    <p>
+    Interactive chessboard with multiple openings and JavaScript-based logic.
+    </p>
+
+    <h2>Links</h2>
+    <p>GitHub: [put your GitHub link here]</p>
+</body>
+</html>
